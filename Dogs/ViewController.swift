@@ -14,7 +14,7 @@ class ViewController: UIViewController, UICollectionViewDelegate, UICollectionVi
     
     @IBOutlet weak var collectionView: UICollectionView!
     
-    let appleProducts = ["iPhone", "Apple Watch", "Mac", "iPad"]
+    let appleProducts = ["Pugger McPugface", "Grass Pug", "Beach Pug", "Swaggy Pug"]
     
     let imageArray = [UIImage(named: "pug"), UIImage(named: "pug2"), UIImage(named: "pug3"), UIImage(named: "pug4")]
 
